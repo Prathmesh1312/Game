@@ -1,2 +1,2 @@
-# Game
-Here you will find games made by me. Fell Free to Check Out!
+## Game
+Here You will Find Games Made by Me. Fell Free to Check Out!
